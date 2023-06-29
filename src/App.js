@@ -1,4 +1,4 @@
-import Steps from './Steps';
+import Steps from './components/Steps';
 
 function App() {
   return (
